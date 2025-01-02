@@ -1,4 +1,4 @@
-name: branch_checkout
+name: commit_checkout
 on: [push]
 jobs:
   external-workflow:
